@@ -1,6 +1,6 @@
 package myPackage.subPackage;
 
-public class PackageDemoClass {
+public class PackageDemo {
     @Override
     public String toString() {
         return "PackageDemoClass Object";
